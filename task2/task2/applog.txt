@@ -1,0 +1,84 @@
+[2022-07-11 21:45:35,160] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 21:45:35,235] [INFO]  [ryanair.task2.controller.InterconnectionsController:44]   Schedules from origin to destiny were successfully obtained from the API.
+[2022-07-11 21:45:35,236] [INFO]  [ryanair.task2.controller.InterconnectionsController:53]   Schedules from origin to connection were successfully obtained from the API.
+[2022-07-11 21:45:35,236] [INFO]  [ryanair.task2.controller.InterconnectionsController:60]   Schedules from connection to destiny were successfully obtained from the API.
+[2022-07-11 21:45:35,429] [INFO]  [ryanair.task2.controller.InterconnectionsController:106]   Routes were successfully obtained from the API.
+[2022-07-11 21:45:35,435] [INFO]  [ryanair.task2.controller.InterconnectionsController:132]   All connections were successfully sent to the Service.
+[2022-07-11 21:46:25,345] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 21:46:25,347] [ERROR]  [ryanair.task2.controller.InterconnectionsController:71]   Failed to get schedules from the API
+[2022-07-11 21:46:25,347] [ERROR]  [ryanair.task2.controller.InterconnectionsController:124]   Failed to get Schedules
+[2022-07-11 21:46:25,347] [ERROR]  [ryanair.task2.controller.InterconnectionsController:136]   Failed to get Interconnections.
+[2022-07-11 22:33:36,174] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:33:36,188] [ERROR]  [ryanair.task2.controller.InterconnectionsController:71]   Failed to get schedules from the API
+[2022-07-11 22:33:36,189] [ERROR]  [ryanair.task2.controller.InterconnectionsController:124]   Failed to get Schedules.
+[2022-07-11 22:33:36,190] [ERROR]  [ryanair.task2.controller.InterconnectionsController:136]   Failed to get Interconnections.
+[2022-07-11 22:34:21,219] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:34:21,236] [INFO]  [ryanair.task2.controller.InterconnectionsController:44]   Schedules from origin to destiny were successfully obtained from the API.
+[2022-07-11 22:34:22,318] [INFO]  [ryanair.task2.controller.InterconnectionsController:53]   Schedules from origin to connection were successfully obtained from the API.
+[2022-07-11 22:34:24,323] [INFO]  [ryanair.task2.controller.InterconnectionsController:60]   Schedules from connection to destiny were successfully obtained from the API.
+[2022-07-11 22:34:24,387] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:128]   The schedules where processed succesfully.
+[2022-07-11 22:34:24,558] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:57]   The routes where processed succesfully.
+[2022-07-11 22:34:24,558] [INFO]  [ryanair.task2.controller.InterconnectionsController:106]   Routes were successfully obtained from the API.
+[2022-07-11 22:34:24,561] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:254]   The interconnections where processed succesfully.
+[2022-07-11 22:34:24,561] [INFO]  [ryanair.task2.controller.InterconnectionsController:132]   All connections were successfully sent to the Service.
+[2022-07-11 22:43:34,057] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:43:34,123] [INFO]  [ryanair.task2.controller.InterconnectionsController:44]   Schedules from origin to destiny were successfully obtained from the API.
+[2022-07-11 22:43:34,605] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:43:34,652] [INFO]  [ryanair.task2.controller.InterconnectionsController:44]   Schedules from origin to destiny were successfully obtained from the API.
+[2022-07-11 22:43:35,684] [INFO]  [ryanair.task2.controller.InterconnectionsController:53]   Schedules from origin to connection were successfully obtained from the API.
+[2022-07-11 22:43:36,371] [INFO]  [ryanair.task2.controller.InterconnectionsController:53]   Schedules from origin to connection were successfully obtained from the API.
+[2022-07-11 22:43:38,720] [INFO]  [ryanair.task2.controller.InterconnectionsController:60]   Schedules from connection to destiny were successfully obtained from the API.
+[2022-07-11 22:43:38,783] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:128]   The schedules where processed succesfully.
+[2022-07-11 22:43:38,970] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:57]   The routes where processed succesfully.
+[2022-07-11 22:43:38,971] [INFO]  [ryanair.task2.controller.InterconnectionsController:106]   Routes were successfully obtained from the API.
+[2022-07-11 22:43:38,973] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:254]   The interconnections where processed succesfully.
+[2022-07-11 22:43:38,973] [INFO]  [ryanair.task2.controller.InterconnectionsController:132]   All connections were successfully sent to the Service.
+[2022-07-11 22:43:39,454] [INFO]  [ryanair.task2.controller.InterconnectionsController:60]   Schedules from connection to destiny were successfully obtained from the API.
+[2022-07-11 22:43:39,535] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:128]   The schedules where processed succesfully.
+[2022-07-11 22:43:39,696] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:57]   The routes where processed succesfully.
+[2022-07-11 22:43:39,697] [INFO]  [ryanair.task2.controller.InterconnectionsController:106]   Routes were successfully obtained from the API.
+[2022-07-11 22:43:39,699] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:254]   The interconnections where processed succesfully.
+[2022-07-11 22:43:39,699] [INFO]  [ryanair.task2.controller.InterconnectionsController:132]   All connections were successfully sent to the Service.
+[2022-07-11 22:44:06,389] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:44:06,428] [INFO]  [ryanair.task2.controller.InterconnectionsController:44]   Schedules from origin to destiny were successfully obtained from the API.
+[2022-07-11 22:44:07,414] [INFO]  [ryanair.task2.controller.InterconnectionsController:53]   Schedules from origin to connection were successfully obtained from the API.
+[2022-07-11 22:44:09,943] [INFO]  [ryanair.task2.controller.InterconnectionsController:60]   Schedules from connection to destiny were successfully obtained from the API.
+[2022-07-11 22:44:10,001] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:128]   The schedules where processed succesfully.
+[2022-07-11 22:44:10,162] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:57]   The routes where processed succesfully.
+[2022-07-11 22:44:10,162] [INFO]  [ryanair.task2.controller.InterconnectionsController:106]   Routes were successfully obtained from the API.
+[2022-07-11 22:44:10,171] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:254]   The interconnections where processed succesfully.
+[2022-07-11 22:44:10,171] [INFO]  [ryanair.task2.controller.InterconnectionsController:132]   All connections were successfully sent to the Service.
+[2022-07-11 22:53:21,356] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:53:21,392] [INFO]  [ryanair.task2.controller.InterconnectionsController:44]   Schedules from origin to destiny were successfully obtained from the API.
+[2022-07-11 22:53:23,551] [INFO]  [ryanair.task2.controller.InterconnectionsController:53]   Schedules from origin to connection were successfully obtained from the API.
+[2022-07-11 22:53:27,019] [INFO]  [ryanair.task2.controller.InterconnectionsController:60]   Schedules from connection to destiny were successfully obtained from the API.
+[2022-07-11 22:53:27,082] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:128]   The schedules where processed succesfully.
+[2022-07-11 22:53:27,311] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:57]   The routes where processed succesfully.
+[2022-07-11 22:53:27,311] [INFO]  [ryanair.task2.controller.InterconnectionsController:106]   Routes were successfully obtained from the API.
+[2022-07-11 22:53:27,313] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:254]   The interconnections where processed succesfully.
+[2022-07-11 22:53:27,313] [INFO]  [ryanair.task2.controller.InterconnectionsController:132]   All connections were successfully sent to the Service.
+[2022-07-11 22:54:05,581] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:54:05,584] [ERROR]  [ryanair.task2.controller.InterconnectionsController:71]   Failed to get schedules from the API
+[2022-07-11 22:54:05,584] [ERROR]  [ryanair.task2.controller.InterconnectionsController:124]   Failed to get Schedules.
+[2022-07-11 22:54:05,584] [ERROR]  [ryanair.task2.controller.InterconnectionsController:136]   Failed to get Interconnections.
+[2022-07-11 22:54:34,276] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:54:34,285] [ERROR]  [ryanair.task2.controller.InterconnectionsController:71]   Failed to get schedules from the API
+[2022-07-11 22:54:34,286] [ERROR]  [ryanair.task2.controller.InterconnectionsController:124]   Failed to get Schedules.
+[2022-07-11 22:54:34,287] [ERROR]  [ryanair.task2.controller.InterconnectionsController:136]   Failed to get Interconnections.
+[2022-07-11 22:55:08,165] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:55:08,175] [ERROR]  [ryanair.task2.controller.InterconnectionsController:71]   Failed to get schedules from the API
+[2022-07-11 22:55:08,175] [ERROR]  [ryanair.task2.controller.InterconnectionsController:124]   Failed to get Schedules.
+[2022-07-11 22:55:08,176] [ERROR]  [ryanair.task2.controller.InterconnectionsController:136]   Failed to get Interconnections.
+[2022-07-11 22:55:31,242] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:55:31,252] [ERROR]  [ryanair.task2.controller.InterconnectionsController:71]   Failed to get schedules from the API
+[2022-07-11 22:55:31,253] [ERROR]  [ryanair.task2.controller.InterconnectionsController:124]   Failed to get Schedules.
+[2022-07-11 22:55:31,254] [ERROR]  [ryanair.task2.controller.InterconnectionsController:136]   Failed to get Interconnections.
+[2022-07-11 22:55:31,460] [INFO]  [ryanair.task2.controller.InterconnectionsController:86]   Connections were successfully obtained from the API.
+[2022-07-11 22:55:31,514] [INFO]  [ryanair.task2.controller.InterconnectionsController:44]   Schedules from origin to destiny were successfully obtained from the API.
+[2022-07-11 22:55:34,661] [INFO]  [ryanair.task2.controller.InterconnectionsController:53]   Schedules from origin to connection were successfully obtained from the API.
+[2022-07-11 22:55:38,385] [INFO]  [ryanair.task2.controller.InterconnectionsController:60]   Schedules from connection to destiny were successfully obtained from the API.
+[2022-07-11 22:55:38,451] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:128]   The schedules where processed succesfully.
+[2022-07-11 22:55:38,675] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:57]   The routes where processed succesfully.
+[2022-07-11 22:55:38,675] [INFO]  [ryanair.task2.controller.InterconnectionsController:106]   Routes were successfully obtained from the API.
+[2022-07-11 22:55:38,677] [INFO]  [ryanair.task2.service.impl.InterconnectionsServiceImpl:254]   The interconnections where processed succesfully.
+[2022-07-11 22:55:38,677] [INFO]  [ryanair.task2.controller.InterconnectionsController:132]   All connections were successfully sent to the Service.
